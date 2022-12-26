@@ -1,0 +1,263 @@
+.container {
+    color: rgb(47, 65, 130);
+    width: 1240px;
+}
+
+.leftsplit {
+    display: inline-block;
+    width: 425px; 
+    vertical-align: top;
+}
+
+.rightsplit {
+    display: inline-block;
+    width:811px;
+    vertical-align: top;
+}
+
+.circle {
+    padding-left: 108px;
+    padding-top: 80px;
+    width: 192px;
+    height: 300;
+}
+
+.circle-image {
+    width: 192px;
+    height: 192px;
+    border-radius: 50%;
+}
+
+.name-div {
+    padding-top: 38px;
+    text-align: center;
+}
+
+.edward {
+   margin: 0; 
+   font-family: arial;
+   font-weight: bolder;  
+}
+
+.role-div {
+    margin-top: 18px;
+    margin-left: 98px;
+}
+
+
+.role-name {
+    margin: 0;
+    font-family: arial;
+    font-weight: lighter;
+}
+
+.mail {
+    display: inline;
+    padding-left: 10px;
+    margin: 0;
+    font-family: helvetica;
+    letter-spacing: -0.5px;
+}
+
+.professional {
+    padding-top: 80px;
+}
+
+.professional-heading {
+    margin: 0;
+    font-family: helvetica;
+    font-weight: bolder;
+}
+
+.professional p {
+    padding-top: 36px;
+   line-height: 1.6;
+   margin: 0;
+   font-family: arial;
+}
+
+.education-text {
+    margin: 0;
+    padding-top: 83px;
+    font-family: helvetica;
+    font-weight: bolder;
+}
+
+.contact-div {
+    margin-left: 58px;
+    margin-top: 71px;
+}
+
+.each-contact-div {
+    display: inline;
+}
+ 
+.contact-icon {
+    width: 19px;
+    height: 14px;
+    margin-left: 12px;
+}
+
+hr {
+    border: 0.5px solid gray;
+    opacity: 0.1;
+    margin-top: 34px;
+}
+
+.contact-hr {
+    opacity: 0.1;
+    margin-left: 0;
+    width: 295px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 195px;
+    height: 50px;
+    background-color: blue;
+    border: none;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+   
+}
+
+.button {
+    margin-top: 78px;
+}
+
+.fulltime-div {
+    display: inline-block;
+    vertical-align: super;
+    text-align: right;
+    width: 39%;
+}
+
+.fulltime-text {
+    color: navy;
+    vertical-align: super;
+    display: inline;
+    background-color: lightgreen;
+    border-radius: 50px;
+    padding: 7px 12px;
+}
+
+.senior-experience {
+    padding-top: 51px; 
+    color: navy;
+}
+
+.junior-experience {
+    padding-top: 30px;
+}
+
+.intern-experience {
+    padding-top: 30px;
+}
+
+.work-text {
+    margin: 0;
+    font-family: arial;
+    font-weight: bolder;
+}
+
+.developerrole-text {
+    margin: 0;
+    font-family: Helvetica;
+    font-weight: lighter;
+    letter-spacing: -0.2px;
+}
+
+.developerrole-div {
+    width: 60%;
+    display: inline-block;
+}
+
+.work-div {
+    padding-top: 100px;
+}
+
+.experience-duration {
+    display: inline;
+    padding-left: 5px;
+}
+
+.company-img {
+    width: 17px;
+    height: 17px;
+    opacity: 0.6;
+}
+
+.company-name {
+    display: inline;
+    margin-left: 5px;
+    opacity: 0.6;
+}
+
+.work-durationimg {
+    width: 12px;
+    height: 12px;
+    opacity: 0.6;
+}
+  
+.senior-locationimg {
+    width: 10px;
+    height: 12px;
+    padding-left: 43px;
+    opacity: 0.6;
+}
+
+.junior-locationimg {
+    width: 10px;
+    height: 12px;
+    padding-left: 73px;
+    opacity: 0.6;
+}
+
+.intern-locationimg {
+    width: 10px;
+    height: 12px;
+    padding-left: 46px;
+    opacity: 0.6;
+}
+
+.company-location-name {
+    display: inline;
+    margin-left: 5px;
+    opacity: 0.6;
+}
+
+.Institute-img {
+    width: 21px;
+    height: 18px;
+    opacity: 0.6;
+}
+
+.Institute-name {
+    display: inline;
+    opacity: 0.6;
+}
+
+.education-durationimg {
+    width: 12px;
+    height: 12px;
+    padding-left: 174px;
+    opacity: 0.6;
+}
+
+.education-duration {
+    display: inline;
+    padding-left: 5px;
+    opacity: 0.6;
+}
+
+.master-degree {
+    padding-top: 45px;
+}
+
+.master-degree *, .bachelor-degree * {
+    font-family: helvetica;
+    font-weight: lighter;
+}
+
